@@ -8,4 +8,4 @@ Requirments:
 - ~ keras 2.9
 - Any latest version for the other used libraries
 
-Uses a three layer sequentail model pretrained with the data from intents.json and saved as model.h5 which is used to generate an appropriate reponse by the chat-bot.
+Uses a three layer sequential model pretrained with the data from intents.json and saved as model.h5 which is used to generate an appropriate reponse by the chat-bot.
